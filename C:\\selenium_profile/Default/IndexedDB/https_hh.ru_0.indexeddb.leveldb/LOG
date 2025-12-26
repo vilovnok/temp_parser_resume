@@ -1,0 +1,5 @@
+2025/11/30-04:59:45.176 34869b Reusing MANIFEST /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/IndexedDB/https_hh.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/30-04:59:45.176 34869b Recovering log #2697
+2025/11/30-04:59:45.176 34869b Reusing old log /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/IndexedDB/https_hh.ru_0.indexeddb.leveldb/002697.log 
+2025/11/30-04:59:45.176 34869b Delete type=2 #2695
+2025/11/30-04:59:45.221 3486a9 Manual compaction at level-0 from ' \xf0\x03\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xf1\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,87 @@
+2025/11/30-03:41:02.444 3486e8 Reusing MANIFEST /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/Session Storage/MANIFEST-000001
+2025/11/30-03:41:02.445 3486e8 Recovering log #87
+2025/11/30-03:41:02.447 3486e8 Reusing old log /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/Session Storage/000087.log 
+2025/11/30-03:44:43.380 3486eb Level-0 table #91: started
+2025/11/30-03:44:43.383 3486eb Level-0 table #91: 13526 bytes OK
+2025/11/30-03:44:43.387 3486eb Delete type=0 #87
+2025/11/30-03:44:43.389 3486eb Compacting 4@0 + 1@1 files
+2025/11/30-03:44:43.399 3486eb Generated table #92@0: 7503 keys, 97461 bytes
+2025/11/30-03:44:43.399 3486eb Compacted 4@0 + 1@1 files => 97461 bytes
+2025/11/30-03:44:43.401 3486eb compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:44:43.402 3486eb Delete type=2 #88
+2025/11/30-03:44:43.402 3486eb Delete type=2 #82
+2025/11/30-03:44:43.402 3486eb Delete type=2 #86
+2025/11/30-03:44:43.402 3486eb Delete type=2 #91
+2025/11/30-03:44:43.402 3486eb Delete type=2 #84
+2025/11/30-03:50:02.379 3486e8 Level-0 table #94: started
+2025/11/30-03:50:02.384 3486e8 Level-0 table #94: 13871 bytes OK
+2025/11/30-03:50:02.388 3486e8 Delete type=0 #90
+2025/11/30-03:54:43.263 3486eb Level-0 table #96: started
+2025/11/30-03:54:43.267 3486eb Level-0 table #96: 13996 bytes OK
+2025/11/30-03:54:43.281 3486eb Delete type=0 #93
+2025/11/30-03:59:23.153 3486eb Level-0 table #98: started
+2025/11/30-03:59:23.157 3486eb Level-0 table #98: 14135 bytes OK
+2025/11/30-03:59:23.159 3486eb Delete type=0 #95
+2025/11/30-04:03:49.369 3486eb Level-0 table #100: started
+2025/11/30-04:03:49.374 3486eb Level-0 table #100: 13921 bytes OK
+2025/11/30-04:03:49.377 3486eb Delete type=0 #97
+2025/11/30-04:03:49.383 3486eb Compacting 4@0 + 1@1 files
+2025/11/30-04:03:49.390 3486eb Generated table #101@0: 8314 keys, 110096 bytes
+2025/11/30-04:03:49.390 3486eb Compacted 4@0 + 1@1 files => 110096 bytes
+2025/11/30-04:03:49.391 3486eb compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-04:03:49.392 3486eb Delete type=2 #100
+2025/11/30-04:03:49.392 3486eb Delete type=2 #98
+2025/11/30-04:03:49.392 3486eb Delete type=2 #94
+2025/11/30-04:03:49.392 3486eb Delete type=2 #96
+2025/11/30-04:03:49.392 3486eb Delete type=2 #92
+2025/11/30-04:08:38.800 3486eb Level-0 table #103: started
+2025/11/30-04:08:38.802 3486eb Level-0 table #103: 13970 bytes OK
+2025/11/30-04:08:38.806 3486eb Delete type=0 #99
+2025/11/30-04:13:05.366 3486e8 Level-0 table #105: started
+2025/11/30-04:13:05.371 3486e8 Level-0 table #105: 14020 bytes OK
+2025/11/30-04:13:05.377 3486e8 Delete type=0 #102
+2025/11/30-04:17:39.364 3486eb Level-0 table #107: started
+2025/11/30-04:17:39.369 3486eb Level-0 table #107: 13888 bytes OK
+2025/11/30-04:17:39.373 3486eb Delete type=0 #104
+2025/11/30-04:24:03.952 3486eb Level-0 table #109: started
+2025/11/30-04:24:03.955 3486eb Level-0 table #109: 13826 bytes OK
+2025/11/30-04:24:03.958 3486eb Delete type=0 #106
+2025/11/30-04:24:03.964 3486eb Compacting 4@0 + 1@1 files
+2025/11/30-04:24:03.972 3486eb Generated table #110@0: 9090 keys, 120252 bytes
+2025/11/30-04:24:03.972 3486eb Compacted 4@0 + 1@1 files => 120252 bytes
+2025/11/30-04:24:03.973 3486eb compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-04:24:03.973 3486eb Delete type=2 #103
+2025/11/30-04:24:03.973 3486eb Delete type=2 #101
+2025/11/30-04:24:03.973 3486eb Delete type=2 #105
+2025/11/30-04:24:03.973 3486eb Delete type=2 #107
+2025/11/30-04:24:03.973 3486eb Delete type=2 #109
+2025/11/30-04:28:37.444 3486eb Level-0 table #112: started
+2025/11/30-04:28:37.449 3486eb Level-0 table #112: 13798 bytes OK
+2025/11/30-04:28:37.451 3486eb Delete type=0 #108
+2025/11/30-04:33:57.505 3486eb Level-0 table #114: started
+2025/11/30-04:33:57.511 3486eb Level-0 table #114: 14105 bytes OK
+2025/11/30-04:33:57.520 3486eb Delete type=0 #111
+2025/11/30-04:38:56.987 3486eb Level-0 table #116: started
+2025/11/30-04:38:56.991 3486eb Level-0 table #116: 13974 bytes OK
+2025/11/30-04:38:56.996 3486eb Delete type=0 #113
+2025/11/30-04:43:34.449 3486eb Level-0 table #118: started
+2025/11/30-04:43:34.451 3486eb Level-0 table #118: 13953 bytes OK
+2025/11/30-04:43:34.452 3486eb Delete type=0 #115
+2025/11/30-04:43:34.453 3486eb Compacting 4@0 + 1@1 files
+2025/11/30-04:43:34.458 3486eb Generated table #119@0: 9873 keys, 130193 bytes
+2025/11/30-04:43:34.458 3486eb Compacted 4@0 + 1@1 files => 130193 bytes
+2025/11/30-04:43:34.459 3486eb compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-04:43:34.459 3486eb Delete type=2 #116
+2025/11/30-04:43:34.459 3486eb Delete type=2 #114
+2025/11/30-04:43:34.459 3486eb Delete type=2 #110
+2025/11/30-04:43:34.459 3486eb Delete type=2 #112
+2025/11/30-04:43:34.459 3486eb Delete type=2 #118
+2025/11/30-04:50:14.084 3486eb Level-0 table #121: started
+2025/11/30-04:50:14.098 3486eb Level-0 table #121: 14035 bytes OK
+2025/11/30-04:50:14.111 3486eb Delete type=0 #117
+2025/11/30-04:55:31.587 3486eb Level-0 table #123: started
+2025/11/30-04:55:31.590 3486eb Level-0 table #123: 14055 bytes OK
+2025/11/30-04:55:31.593 3486eb Delete type=0 #120
+2025/11/30-05:03:28.193 3486eb Level-0 table #125: started
+2025/11/30-05:03:28.231 3486eb Level-0 table #125: 13657 bytes OK
+2025/11/30-05:03:28.245 3486eb Delete type=0 #122

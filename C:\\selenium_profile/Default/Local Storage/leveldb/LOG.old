@@ -1,0 +1,648 @@
+2025/11/30-01:58:33.600 2eadcc Reusing MANIFEST /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/30-01:58:33.602 2eadcc Recovering log #168
+2025/11/30-01:58:33.603 2eadcc Reusing old log /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/Local Storage/leveldb/000168.log 
+2025/11/30-01:58:40.926 2eadcc Level-0 table #172: started
+2025/11/30-01:58:40.938 2eadcc Level-0 table #172: 14598 bytes OK
+2025/11/30-01:58:40.940 2eadcc Delete type=0 #168
+2025/11/30-02:01:35.881 2eadcf Level-0 table #174: started
+2025/11/30-02:01:35.887 2eadcf Level-0 table #174: 15518 bytes OK
+2025/11/30-02:01:35.891 2eadcf Delete type=0 #171
+2025/11/30-02:01:35.894 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:01:35.904 2eadcf Generated table #175@0: 1594 keys, 650550 bytes
+2025/11/30-02:01:35.904 2eadcf Compacted 4@0 + 1@1 files => 650550 bytes
+2025/11/30-02:01:35.906 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:01:35.907 2eadcf Delete type=2 #174
+2025/11/30-02:01:35.907 2eadcf Delete type=2 #167
+2025/11/30-02:01:35.907 2eadcf Delete type=2 #172
+2025/11/30-02:01:35.907 2eadcf Delete type=2 #165
+2025/11/30-02:01:35.907 2eadcf Delete type=2 #169
+2025/11/30-02:03:35.877 2eadcf Level-0 table #177: started
+2025/11/30-02:03:35.881 2eadcf Level-0 table #177: 14926 bytes OK
+2025/11/30-02:03:35.885 2eadcf Delete type=0 #173
+2025/11/30-02:06:35.868 2eadcf Level-0 table #179: started
+2025/11/30-02:06:35.872 2eadcf Level-0 table #179: 15682 bytes OK
+2025/11/30-02:06:35.874 2eadcf Delete type=0 #176
+2025/11/30-02:08:27.391 2eadcf Level-0 table #181: started
+2025/11/30-02:08:27.406 2eadcf Level-0 table #181: 15408 bytes OK
+2025/11/30-02:08:27.410 2eadcf Delete type=0 #178
+2025/11/30-02:08:36.248 2eadcf Level-0 table #183: started
+2025/11/30-02:08:36.253 2eadcf Level-0 table #183: 11597 bytes OK
+2025/11/30-02:08:36.263 2eadcf Delete type=0 #180
+2025/11/30-02:08:36.265 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:08:36.279 2eadcf Generated table #184@0: 1643 keys, 651813 bytes
+2025/11/30-02:08:36.279 2eadcf Compacted 4@0 + 1@1 files => 651813 bytes
+2025/11/30-02:08:36.282 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:08:36.283 2eadcf Delete type=2 #175
+2025/11/30-02:08:36.283 2eadcf Delete type=2 #177
+2025/11/30-02:08:36.283 2eadcf Delete type=2 #183
+2025/11/30-02:08:36.283 2eadcf Delete type=2 #181
+2025/11/30-02:08:36.283 2eadcf Delete type=2 #179
+2025/11/30-02:11:35.860 2eadcf Level-0 table #186: started
+2025/11/30-02:11:35.863 2eadcf Level-0 table #186: 15684 bytes OK
+2025/11/30-02:11:35.867 2eadcf Delete type=0 #182
+2025/11/30-02:14:35.855 2eadcf Level-0 table #188: started
+2025/11/30-02:14:35.859 2eadcf Level-0 table #188: 16511 bytes OK
+2025/11/30-02:14:35.861 2eadcf Delete type=0 #185
+2025/11/30-02:16:08.738 2eadcf Level-0 table #190: started
+2025/11/30-02:16:08.742 2eadcf Level-0 table #190: 16396 bytes OK
+2025/11/30-02:16:08.748 2eadcf Delete type=0 #187
+2025/11/30-02:17:35.850 2eadcf Level-0 table #192: started
+2025/11/30-02:17:35.855 2eadcf Level-0 table #192: 16193 bytes OK
+2025/11/30-02:17:35.861 2eadcf Delete type=0 #189
+2025/11/30-02:17:35.863 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:17:35.875 2eadcf Generated table #193@0: 1691 keys, 653329 bytes
+2025/11/30-02:17:35.875 2eadcf Compacted 4@0 + 1@1 files => 653329 bytes
+2025/11/30-02:17:35.878 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:17:35.879 2eadcf Delete type=2 #188
+2025/11/30-02:17:35.879 2eadcf Delete type=2 #184
+2025/11/30-02:17:35.879 2eadcf Delete type=2 #190
+2025/11/30-02:17:35.879 2eadcf Delete type=2 #186
+2025/11/30-02:17:35.879 2eadcf Delete type=2 #192
+2025/11/30-02:20:35.842 2eadcf Level-0 table #195: started
+2025/11/30-02:20:35.846 2eadcf Level-0 table #195: 16864 bytes OK
+2025/11/30-02:20:35.850 2eadcf Delete type=0 #191
+2025/11/30-02:22:35.839 2eadcf Level-0 table #197: started
+2025/11/30-02:22:35.843 2eadcf Level-0 table #197: 16704 bytes OK
+2025/11/30-02:22:35.846 2eadcf Delete type=0 #194
+2025/11/30-02:24:35.835 2eadcf Level-0 table #199: started
+2025/11/30-02:24:35.839 2eadcf Level-0 table #199: 16933 bytes OK
+2025/11/30-02:24:35.842 2eadcf Delete type=0 #196
+2025/11/30-02:27:35.919 2eadcf Level-0 table #201: started
+2025/11/30-02:27:35.924 2eadcf Level-0 table #201: 17224 bytes OK
+2025/11/30-02:27:35.928 2eadcf Delete type=0 #198
+2025/11/30-02:27:35.929 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:27:35.938 2eadcf Generated table #202@0: 1749 keys, 655385 bytes
+2025/11/30-02:27:35.939 2eadcf Compacted 4@0 + 1@1 files => 655385 bytes
+2025/11/30-02:27:35.940 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:27:35.941 2eadcf Delete type=2 #201
+2025/11/30-02:27:35.941 2eadcf Delete type=2 #199
+2025/11/30-02:27:35.941 2eadcf Delete type=2 #197
+2025/11/30-02:27:35.941 2eadcf Delete type=2 #195
+2025/11/30-02:27:35.941 2eadcf Delete type=2 #193
+2025/11/30-02:28:35.916 2eadcf Level-0 table #204: started
+2025/11/30-02:28:35.920 2eadcf Level-0 table #204: 9016 bytes OK
+2025/11/30-02:28:35.924 2eadcf Delete type=0 #200
+2025/11/30-02:29:35.916 2eadcf Level-0 table #206: started
+2025/11/30-02:29:35.923 2eadcf Level-0 table #206: 9004 bytes OK
+2025/11/30-02:29:35.929 2eadcf Delete type=0 #203
+2025/11/30-02:30:35.914 2eadcf Level-0 table #208: started
+2025/11/30-02:30:35.920 2eadcf Level-0 table #208: 9065 bytes OK
+2025/11/30-02:30:35.923 2eadcf Delete type=0 #205
+2025/11/30-02:31:35.914 2eadcf Level-0 table #210: started
+2025/11/30-02:31:35.918 2eadcf Level-0 table #210: 9174 bytes OK
+2025/11/30-02:31:35.922 2eadcf Delete type=0 #207
+2025/11/30-02:31:35.924 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:31:35.933 2eadcf Generated table #211@0: 1779 keys, 656298 bytes
+2025/11/30-02:31:35.933 2eadcf Compacted 4@0 + 1@1 files => 656298 bytes
+2025/11/30-02:31:35.939 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:31:35.940 2eadcf Delete type=2 #202
+2025/11/30-02:31:35.940 2eadcf Delete type=2 #210
+2025/11/30-02:31:35.941 2eadcf Delete type=2 #204
+2025/11/30-02:31:35.941 2eadcf Delete type=2 #206
+2025/11/30-02:31:35.941 2eadcf Delete type=2 #208
+2025/11/30-02:32:35.913 2eadcf Level-0 table #213: started
+2025/11/30-02:32:35.918 2eadcf Level-0 table #213: 9404 bytes OK
+2025/11/30-02:32:35.922 2eadcf Delete type=0 #209
+2025/11/30-02:33:35.913 2eadcf Level-0 table #215: started
+2025/11/30-02:33:35.918 2eadcf Level-0 table #215: 9573 bytes OK
+2025/11/30-02:33:35.923 2eadcf Delete type=0 #212
+2025/11/30-02:34:35.910 2eadcf Level-0 table #217: started
+2025/11/30-02:34:35.913 2eadcf Level-0 table #217: 9629 bytes OK
+2025/11/30-02:34:35.916 2eadcf Delete type=0 #214
+2025/11/30-02:35:35.911 2eadcf Level-0 table #219: started
+2025/11/30-02:35:35.918 2eadcf Level-0 table #219: 9703 bytes OK
+2025/11/30-02:35:35.921 2eadcf Delete type=0 #216
+2025/11/30-02:35:35.923 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:35:35.935 2eadcf Generated table #220@0: 1815 keys, 657731 bytes
+2025/11/30-02:35:35.935 2eadcf Compacted 4@0 + 1@1 files => 657731 bytes
+2025/11/30-02:35:35.938 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:35:35.939 2eadcf Delete type=2 #217
+2025/11/30-02:35:35.939 2eadcf Delete type=2 #215
+2025/11/30-02:35:35.939 2eadcf Delete type=2 #211
+2025/11/30-02:35:35.939 2eadcf Delete type=2 #213
+2025/11/30-02:35:35.939 2eadcf Delete type=2 #219
+2025/11/30-02:36:35.910 2eadcf Level-0 table #222: started
+2025/11/30-02:36:35.916 2eadcf Level-0 table #222: 9742 bytes OK
+2025/11/30-02:36:35.919 2eadcf Delete type=0 #218
+2025/11/30-02:37:35.910 2eadcf Level-0 table #224: started
+2025/11/30-02:37:35.915 2eadcf Level-0 table #224: 9907 bytes OK
+2025/11/30-02:37:35.921 2eadcf Delete type=0 #221
+2025/11/30-02:38:35.909 2eadcf Level-0 table #226: started
+2025/11/30-02:38:35.916 2eadcf Level-0 table #226: 9789 bytes OK
+2025/11/30-02:38:35.920 2eadcf Delete type=0 #223
+2025/11/30-02:39:35.907 2eadcf Level-0 table #228: started
+2025/11/30-02:39:35.911 2eadcf Level-0 table #228: 9950 bytes OK
+2025/11/30-02:39:35.913 2eadcf Delete type=0 #225
+2025/11/30-02:39:35.914 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:39:35.921 2eadcf Generated table #229@0: 1849 keys, 658028 bytes
+2025/11/30-02:39:35.921 2eadcf Compacted 4@0 + 1@1 files => 658028 bytes
+2025/11/30-02:39:35.922 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:39:35.923 2eadcf Delete type=2 #228
+2025/11/30-02:39:35.923 2eadcf Delete type=2 #222
+2025/11/30-02:39:35.923 2eadcf Delete type=2 #220
+2025/11/30-02:39:35.923 2eadcf Delete type=2 #224
+2025/11/30-02:39:35.923 2eadcf Delete type=2 #226
+2025/11/30-02:40:35.908 2eadcf Level-0 table #231: started
+2025/11/30-02:40:35.913 2eadcf Level-0 table #231: 9945 bytes OK
+2025/11/30-02:40:35.916 2eadcf Delete type=0 #227
+2025/11/30-02:41:35.905 2eadcf Level-0 table #233: started
+2025/11/30-02:41:35.911 2eadcf Level-0 table #233: 9943 bytes OK
+2025/11/30-02:41:35.916 2eadcf Delete type=0 #230
+2025/11/30-02:42:35.904 2eadcf Level-0 table #235: started
+2025/11/30-02:42:35.906 2eadcf Level-0 table #235: 9944 bytes OK
+2025/11/30-02:42:35.909 2eadcf Delete type=0 #232
+2025/11/30-02:43:35.905 2eadcf Level-0 table #237: started
+2025/11/30-02:43:35.910 2eadcf Level-0 table #237: 10071 bytes OK
+2025/11/30-02:43:35.913 2eadcf Delete type=0 #234
+2025/11/30-02:43:35.915 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:43:35.927 2eadcf Generated table #238@0: 1881 keys, 658786 bytes
+2025/11/30-02:43:35.927 2eadcf Compacted 4@0 + 1@1 files => 658786 bytes
+2025/11/30-02:43:35.929 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:43:35.930 2eadcf Delete type=2 #229
+2025/11/30-02:43:35.930 2eadcf Delete type=2 #237
+2025/11/30-02:43:35.930 2eadcf Delete type=2 #235
+2025/11/30-02:43:35.930 2eadcf Delete type=2 #231
+2025/11/30-02:43:35.930 2eadcf Delete type=2 #233
+2025/11/30-02:44:35.904 2eadcf Level-0 table #240: started
+2025/11/30-02:44:35.908 2eadcf Level-0 table #240: 10038 bytes OK
+2025/11/30-02:44:35.911 2eadcf Delete type=0 #236
+2025/11/30-02:45:35.904 2eadcf Level-0 table #242: started
+2025/11/30-02:45:35.909 2eadcf Level-0 table #242: 9943 bytes OK
+2025/11/30-02:45:35.914 2eadcf Delete type=0 #239
+2025/11/30-02:46:35.903 2eadcf Level-0 table #244: started
+2025/11/30-02:46:35.907 2eadcf Level-0 table #244: 9927 bytes OK
+2025/11/30-02:46:35.911 2eadcf Delete type=0 #241
+2025/11/30-02:47:35.900 2eadcf Level-0 table #246: started
+2025/11/30-02:47:35.904 2eadcf Level-0 table #246: 9932 bytes OK
+2025/11/30-02:47:35.909 2eadcf Delete type=0 #243
+2025/11/30-02:47:35.912 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:47:35.917 2eadcf Generated table #247@0: 1911 keys, 659454 bytes
+2025/11/30-02:47:35.917 2eadcf Compacted 4@0 + 1@1 files => 659454 bytes
+2025/11/30-02:47:35.923 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:47:35.924 2eadcf Delete type=2 #238
+2025/11/30-02:47:35.924 2eadcf Delete type=2 #240
+2025/11/30-02:47:35.924 2eadcf Delete type=2 #242
+2025/11/30-02:47:35.924 2eadcf Delete type=2 #246
+2025/11/30-02:47:35.924 2eadcf Delete type=2 #244
+2025/11/30-02:48:35.901 2eadcf Level-0 table #249: started
+2025/11/30-02:48:35.906 2eadcf Level-0 table #249: 9871 bytes OK
+2025/11/30-02:48:35.910 2eadcf Delete type=0 #245
+2025/11/30-02:49:35.900 2eadcf Level-0 table #251: started
+2025/11/30-02:49:35.910 2eadcf Level-0 table #251: 10140 bytes OK
+2025/11/30-02:49:35.914 2eadcf Delete type=0 #248
+2025/11/30-02:50:35.899 2eadcf Level-0 table #253: started
+2025/11/30-02:50:35.905 2eadcf Level-0 table #253: 9966 bytes OK
+2025/11/30-02:50:35.908 2eadcf Delete type=0 #250
+2025/11/30-02:51:35.899 2eadcf Level-0 table #255: started
+2025/11/30-02:51:35.904 2eadcf Level-0 table #255: 9897 bytes OK
+2025/11/30-02:51:35.907 2eadcf Delete type=0 #252
+2025/11/30-02:51:35.908 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:51:35.917 2eadcf Generated table #256@0: 1945 keys, 660137 bytes
+2025/11/30-02:51:35.917 2eadcf Compacted 4@0 + 1@1 files => 660137 bytes
+2025/11/30-02:51:35.919 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:51:35.920 2eadcf Delete type=2 #249
+2025/11/30-02:51:35.920 2eadcf Delete type=2 #255
+2025/11/30-02:51:35.920 2eadcf Delete type=2 #247
+2025/11/30-02:51:35.920 2eadcf Delete type=2 #253
+2025/11/30-02:51:35.920 2eadcf Delete type=2 #251
+2025/11/30-02:52:35.897 2eadcf Level-0 table #258: started
+2025/11/30-02:52:35.899 2eadcf Level-0 table #258: 9442 bytes OK
+2025/11/30-02:52:35.903 2eadcf Delete type=0 #254
+2025/11/30-02:54:35.897 2eadcf Level-0 table #260: started
+2025/11/30-02:54:35.903 2eadcf Level-0 table #260: 16476 bytes OK
+2025/11/30-02:54:35.906 2eadcf Delete type=0 #257
+2025/11/30-02:56:35.900 2eadcf Level-0 table #262: started
+2025/11/30-02:56:35.904 2eadcf Level-0 table #262: 10881 bytes OK
+2025/11/30-02:56:35.907 2eadcf Delete type=0 #259
+2025/11/30-02:58:35.894 2eadcf Level-0 table #264: started
+2025/11/30-02:58:35.899 2eadcf Level-0 table #264: 14436 bytes OK
+2025/11/30-02:58:35.904 2eadcf Delete type=0 #261
+2025/11/30-02:58:35.909 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-02:58:35.917 2eadcf Generated table #265@0: 1987 keys, 658484 bytes
+2025/11/30-02:58:35.917 2eadcf Compacted 4@0 + 1@1 files => 658484 bytes
+2025/11/30-02:58:35.919 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-02:58:35.920 2eadcf Delete type=2 #260
+2025/11/30-02:58:35.920 2eadcf Delete type=2 #262
+2025/11/30-02:58:35.920 2eadcf Delete type=2 #258
+2025/11/30-02:58:35.920 2eadcf Delete type=2 #264
+2025/11/30-02:58:35.920 2eadcf Delete type=2 #256
+2025/11/30-03:00:35.891 2eadcf Level-0 table #267: started
+2025/11/30-03:00:35.894 2eadcf Level-0 table #267: 14495 bytes OK
+2025/11/30-03:00:35.896 2eadcf Delete type=0 #263
+2025/11/30-03:03:35.890 2eadcf Level-0 table #269: started
+2025/11/30-03:03:35.893 2eadcf Level-0 table #269: 13405 bytes OK
+2025/11/30-03:03:35.898 2eadcf Delete type=0 #266
+2025/11/30-03:05:35.889 2eadcf Level-0 table #271: started
+2025/11/30-03:05:35.894 2eadcf Level-0 table #271: 10531 bytes OK
+2025/11/30-03:05:35.897 2eadcf Delete type=0 #268
+2025/11/30-03:07:35.887 2eadcf Level-0 table #273: started
+2025/11/30-03:07:35.890 2eadcf Level-0 table #273: 9938 bytes OK
+2025/11/30-03:07:35.894 2eadcf Delete type=0 #270
+2025/11/30-03:07:35.896 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:07:35.905 2eadcf Generated table #274@0: 2045 keys, 657710 bytes
+2025/11/30-03:07:35.905 2eadcf Compacted 4@0 + 1@1 files => 657710 bytes
+2025/11/30-03:07:35.907 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:07:35.908 2eadcf Delete type=2 #273
+2025/11/30-03:07:35.908 2eadcf Delete type=2 #267
+2025/11/30-03:07:35.908 2eadcf Delete type=2 #271
+2025/11/30-03:07:35.908 2eadcf Delete type=2 #265
+2025/11/30-03:07:35.908 2eadcf Delete type=2 #269
+2025/11/30-03:09:35.887 2eadcf Level-0 table #276: started
+2025/11/30-03:09:35.893 2eadcf Level-0 table #276: 10299 bytes OK
+2025/11/30-03:09:35.898 2eadcf Delete type=0 #272
+2025/11/30-03:10:25.061 2eadcc Level-0 table #278: started
+2025/11/30-03:10:25.068 2eadcc Level-0 table #278: 10215 bytes OK
+2025/11/30-03:10:25.077 2eadcc Delete type=0 #275
+2025/11/30-03:10:32.043 2eadcf Level-0 table #280: started
+2025/11/30-03:10:32.047 2eadcf Level-0 table #280: 9833 bytes OK
+2025/11/30-03:10:32.049 2eadcf Delete type=0 #277
+2025/11/30-03:10:35.732 2eadcf Level-0 table #282: started
+2025/11/30-03:10:35.736 2eadcf Level-0 table #282: 9937 bytes OK
+2025/11/30-03:10:35.738 2eadcf Delete type=0 #279
+2025/11/30-03:10:35.738 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:10:35.745 2eadcf Generated table #283@0: 2088 keys, 659307 bytes
+2025/11/30-03:10:35.745 2eadcf Compacted 4@0 + 1@1 files => 659307 bytes
+2025/11/30-03:10:35.747 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:10:35.747 2eadcf Delete type=2 #274
+2025/11/30-03:10:35.747 2eadcf Delete type=2 #276
+2025/11/30-03:10:35.747 2eadcf Delete type=2 #282
+2025/11/30-03:10:35.747 2eadcf Delete type=2 #280
+2025/11/30-03:10:35.747 2eadcf Delete type=2 #278
+2025/11/30-03:10:43.206 2eadcf Level-0 table #285: started
+2025/11/30-03:10:43.208 2eadcf Level-0 table #285: 12131 bytes OK
+2025/11/30-03:10:43.212 2eadcf Delete type=0 #281
+2025/11/30-03:11:03.424 2eadcf Level-0 table #287: started
+2025/11/30-03:11:03.427 2eadcf Level-0 table #287: 10219 bytes OK
+2025/11/30-03:11:03.439 2eadcf Delete type=0 #284
+2025/11/30-03:11:07.547 2eadcf Level-0 table #289: started
+2025/11/30-03:11:07.551 2eadcf Level-0 table #289: 12809 bytes OK
+2025/11/30-03:11:07.553 2eadcf Delete type=0 #286
+2025/11/30-03:11:35.884 2eadcf Level-0 table #291: started
+2025/11/30-03:11:35.892 2eadcf Level-0 table #291: 11325 bytes OK
+2025/11/30-03:11:35.897 2eadcf Delete type=0 #288
+2025/11/30-03:11:35.898 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:11:35.905 2eadcf Generated table #292@0: 2142 keys, 661202 bytes
+2025/11/30-03:11:35.905 2eadcf Compacted 4@0 + 1@1 files => 661202 bytes
+2025/11/30-03:11:35.906 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:11:35.907 2eadcf Delete type=2 #289
+2025/11/30-03:11:35.907 2eadcf Delete type=2 #283
+2025/11/30-03:11:35.907 2eadcf Delete type=2 #291
+2025/11/30-03:11:35.907 2eadcf Delete type=2 #285
+2025/11/30-03:11:35.907 2eadcf Delete type=2 #287
+2025/11/30-03:11:47.209 2eadcf Level-0 table #294: started
+2025/11/30-03:11:47.213 2eadcf Level-0 table #294: 11427 bytes OK
+2025/11/30-03:11:47.215 2eadcf Delete type=0 #290
+2025/11/30-03:11:59.101 2eadcf Level-0 table #296: started
+2025/11/30-03:11:59.105 2eadcf Level-0 table #296: 11568 bytes OK
+2025/11/30-03:11:59.108 2eadcf Delete type=0 #293
+2025/11/30-03:12:12.426 2eadcf Level-0 table #298: started
+2025/11/30-03:12:12.428 2eadcf Level-0 table #298: 12052 bytes OK
+2025/11/30-03:12:12.431 2eadcf Delete type=0 #295
+2025/11/30-03:12:20.709 2eadcf Level-0 table #300: started
+2025/11/30-03:12:20.714 2eadcf Level-0 table #300: 12035 bytes OK
+2025/11/30-03:12:20.716 2eadcf Delete type=0 #297
+2025/11/30-03:12:20.718 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:12:20.723 2eadcf Generated table #301@0: 2194 keys, 662097 bytes
+2025/11/30-03:12:20.723 2eadcf Compacted 4@0 + 1@1 files => 662097 bytes
+2025/11/30-03:12:20.725 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:12:20.725 2eadcf Delete type=2 #300
+2025/11/30-03:12:20.725 2eadcf Delete type=2 #298
+2025/11/30-03:12:20.725 2eadcf Delete type=2 #296
+2025/11/30-03:12:20.725 2eadcf Delete type=2 #294
+2025/11/30-03:12:20.725 2eadcf Delete type=2 #292
+2025/11/30-03:12:26.421 2eadcf Level-0 table #303: started
+2025/11/30-03:12:26.424 2eadcf Level-0 table #303: 12073 bytes OK
+2025/11/30-03:12:26.443 2eadcf Delete type=0 #299
+2025/11/30-03:12:35.881 2eadcf Level-0 table #305: started
+2025/11/30-03:12:35.888 2eadcf Level-0 table #305: 12204 bytes OK
+2025/11/30-03:12:35.890 2eadcf Delete type=0 #302
+2025/11/30-03:12:40.666 2eadcf Level-0 table #307: started
+2025/11/30-03:12:40.669 2eadcf Level-0 table #307: 12826 bytes OK
+2025/11/30-03:12:40.677 2eadcf Delete type=0 #304
+2025/11/30-03:12:52.330 2eadcf Level-0 table #309: started
+2025/11/30-03:12:52.334 2eadcf Level-0 table #309: 12354 bytes OK
+2025/11/30-03:12:52.337 2eadcf Delete type=0 #306
+2025/11/30-03:12:52.338 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:12:52.347 2eadcf Generated table #310@0: 2218 keys, 662762 bytes
+2025/11/30-03:12:52.347 2eadcf Compacted 4@0 + 1@1 files => 662762 bytes
+2025/11/30-03:12:52.349 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:12:52.349 2eadcf Delete type=2 #301
+2025/11/30-03:12:52.349 2eadcf Delete type=2 #303
+2025/11/30-03:12:52.349 2eadcf Delete type=2 #307
+2025/11/30-03:12:52.349 2eadcf Delete type=2 #305
+2025/11/30-03:12:52.349 2eadcf Delete type=2 #309
+2025/11/30-03:12:56.042 2eadcf Level-0 table #312: started
+2025/11/30-03:12:56.046 2eadcf Level-0 table #312: 12822 bytes OK
+2025/11/30-03:12:56.048 2eadcf Delete type=0 #308
+2025/11/30-03:13:09.214 2eadcf Level-0 table #314: started
+2025/11/30-03:13:09.216 2eadcf Level-0 table #314: 12828 bytes OK
+2025/11/30-03:13:09.220 2eadcf Delete type=0 #311
+2025/11/30-03:13:21.659 2eadcf Level-0 table #316: started
+2025/11/30-03:13:21.661 2eadcf Level-0 table #316: 13139 bytes OK
+2025/11/30-03:13:21.663 2eadcf Delete type=0 #313
+2025/11/30-03:13:33.454 2eadcf Level-0 table #318: started
+2025/11/30-03:13:33.462 2eadcf Level-0 table #318: 13400 bytes OK
+2025/11/30-03:13:33.465 2eadcf Delete type=0 #315
+2025/11/30-03:13:33.465 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:13:33.474 2eadcf Generated table #319@0: 2263 keys, 664230 bytes
+2025/11/30-03:13:33.474 2eadcf Compacted 4@0 + 1@1 files => 664230 bytes
+2025/11/30-03:13:33.476 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:13:33.476 2eadcf Delete type=2 #314
+2025/11/30-03:13:33.476 2eadcf Delete type=2 #316
+2025/11/30-03:13:33.476 2eadcf Delete type=2 #312
+2025/11/30-03:13:33.476 2eadcf Delete type=2 #310
+2025/11/30-03:13:33.476 2eadcf Delete type=2 #318
+2025/11/30-03:13:36.263 2eadcf Level-0 table #321: started
+2025/11/30-03:13:36.267 2eadcf Level-0 table #321: 13479 bytes OK
+2025/11/30-03:13:36.271 2eadcf Delete type=0 #317
+2025/11/30-03:13:55.914 2eadcf Level-0 table #323: started
+2025/11/30-03:13:55.919 2eadcf Level-0 table #323: 14078 bytes OK
+2025/11/30-03:13:55.932 2eadcf Delete type=0 #320
+2025/11/30-03:14:03.980 2eadcf Level-0 table #325: started
+2025/11/30-03:14:03.983 2eadcf Level-0 table #325: 13853 bytes OK
+2025/11/30-03:14:03.985 2eadcf Delete type=0 #322
+2025/11/30-03:14:14.871 2eadcc Level-0 table #327: started
+2025/11/30-03:14:14.879 2eadcc Level-0 table #327: 14049 bytes OK
+2025/11/30-03:14:14.892 2eadcc Delete type=0 #324
+2025/11/30-03:14:14.895 2eadcc Compacting 4@0 + 1@1 files
+2025/11/30-03:14:14.900 2eadcc Generated table #328@0: 2307 keys, 665484 bytes
+2025/11/30-03:14:14.901 2eadcc Compacted 4@0 + 1@1 files => 665484 bytes
+2025/11/30-03:14:14.903 2eadcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:14:14.903 2eadcc Delete type=2 #321
+2025/11/30-03:14:14.903 2eadcc Delete type=2 #323
+2025/11/30-03:14:14.903 2eadcc Delete type=2 #327
+2025/11/30-03:14:14.903 2eadcc Delete type=2 #319
+2025/11/30-03:14:14.903 2eadcc Delete type=2 #325
+2025/11/30-03:14:18.625 2eadcf Level-0 table #330: started
+2025/11/30-03:14:18.627 2eadcf Level-0 table #330: 14194 bytes OK
+2025/11/30-03:14:18.629 2eadcf Delete type=0 #326
+2025/11/30-03:14:22.471 2eadcf Level-0 table #332: started
+2025/11/30-03:14:22.474 2eadcf Level-0 table #332: 14267 bytes OK
+2025/11/30-03:14:22.482 2eadcf Delete type=0 #329
+2025/11/30-03:14:26.746 2eadcf Level-0 table #334: started
+2025/11/30-03:14:26.752 2eadcf Level-0 table #334: 14291 bytes OK
+2025/11/30-03:14:26.754 2eadcf Delete type=0 #331
+2025/11/30-03:14:30.840 2eadcf Level-0 table #336: started
+2025/11/30-03:14:30.846 2eadcf Level-0 table #336: 14367 bytes OK
+2025/11/30-03:14:30.848 2eadcf Delete type=0 #333
+2025/11/30-03:14:30.848 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:14:30.856 2eadcf Generated table #337@0: 2324 keys, 666372 bytes
+2025/11/30-03:14:30.856 2eadcf Compacted 4@0 + 1@1 files => 666372 bytes
+2025/11/30-03:14:30.857 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:14:30.857 2eadcf Delete type=2 #328
+2025/11/30-03:14:30.857 2eadcf Delete type=2 #334
+2025/11/30-03:14:30.857 2eadcf Delete type=2 #336
+2025/11/30-03:14:30.857 2eadcf Delete type=2 #332
+2025/11/30-03:14:30.857 2eadcf Delete type=2 #330
+2025/11/30-03:14:35.887 2eadcf Level-0 table #339: started
+2025/11/30-03:14:35.892 2eadcf Level-0 table #339: 14485 bytes OK
+2025/11/30-03:14:35.894 2eadcf Delete type=0 #335
+2025/11/30-03:14:43.612 2eadcf Level-0 table #341: started
+2025/11/30-03:14:43.615 2eadcf Level-0 table #341: 14675 bytes OK
+2025/11/30-03:14:43.620 2eadcf Delete type=0 #338
+2025/11/30-03:14:47.589 2eadcf Level-0 table #343: started
+2025/11/30-03:14:47.593 2eadcf Level-0 table #343: 14613 bytes OK
+2025/11/30-03:14:47.595 2eadcf Delete type=0 #340
+2025/11/30-03:14:51.287 2eadcf Level-0 table #345: started
+2025/11/30-03:14:51.290 2eadcf Level-0 table #345: 14704 bytes OK
+2025/11/30-03:14:51.292 2eadcf Delete type=0 #342
+2025/11/30-03:14:51.294 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:14:51.300 2eadcf Generated table #346@0: 2344 keys, 666940 bytes
+2025/11/30-03:14:51.300 2eadcf Compacted 4@0 + 1@1 files => 666940 bytes
+2025/11/30-03:14:51.301 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:14:51.301 2eadcf Delete type=2 #339
+2025/11/30-03:14:51.302 2eadcf Delete type=2 #343
+2025/11/30-03:14:51.302 2eadcf Delete type=2 #341
+2025/11/30-03:14:51.302 2eadcf Delete type=2 #345
+2025/11/30-03:14:51.302 2eadcf Delete type=2 #337
+2025/11/30-03:15:01.688 2eadcf Level-0 table #348: started
+2025/11/30-03:15:01.693 2eadcf Level-0 table #348: 15207 bytes OK
+2025/11/30-03:15:01.712 2eadcf Delete type=0 #344
+2025/11/30-03:15:05.300 2eadcf Level-0 table #350: started
+2025/11/30-03:15:05.304 2eadcf Level-0 table #350: 14981 bytes OK
+2025/11/30-03:15:05.314 2eadcf Delete type=0 #347
+2025/11/30-03:15:11.186 2eadcf Level-0 table #352: started
+2025/11/30-03:15:11.190 2eadcf Level-0 table #352: 15021 bytes OK
+2025/11/30-03:15:11.194 2eadcf Delete type=0 #349
+2025/11/30-03:15:19.891 2eadcf Level-0 table #354: started
+2025/11/30-03:15:19.893 2eadcf Level-0 table #354: 15362 bytes OK
+2025/11/30-03:15:19.896 2eadcf Delete type=0 #351
+2025/11/30-03:15:19.896 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:15:19.904 2eadcf Generated table #355@0: 2374 keys, 667894 bytes
+2025/11/30-03:15:19.904 2eadcf Compacted 4@0 + 1@1 files => 667894 bytes
+2025/11/30-03:15:19.905 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:15:19.905 2eadcf Delete type=2 #348
+2025/11/30-03:15:19.906 2eadcf Delete type=2 #354
+2025/11/30-03:15:19.906 2eadcf Delete type=2 #350
+2025/11/30-03:15:19.906 2eadcf Delete type=2 #352
+2025/11/30-03:15:19.906 2eadcf Delete type=2 #346
+2025/11/30-03:15:23.295 2eadcf Level-0 table #357: started
+2025/11/30-03:15:23.299 2eadcf Level-0 table #357: 15285 bytes OK
+2025/11/30-03:15:23.302 2eadcf Delete type=0 #353
+2025/11/30-03:15:32.611 2eadcc Level-0 table #359: started
+2025/11/30-03:15:32.617 2eadcc Level-0 table #359: 15422 bytes OK
+2025/11/30-03:15:32.619 2eadcc Delete type=0 #356
+2025/11/30-03:15:40.590 2eadcf Level-0 table #361: started
+2025/11/30-03:15:40.592 2eadcf Level-0 table #361: 15623 bytes OK
+2025/11/30-03:15:40.595 2eadcf Delete type=0 #358
+2025/11/30-03:15:48.198 2eadcf Level-0 table #363: started
+2025/11/30-03:15:48.202 2eadcf Level-0 table #363: 15763 bytes OK
+2025/11/30-03:15:48.203 2eadcf Delete type=0 #360
+2025/11/30-03:15:48.206 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:15:48.212 2eadcf Generated table #364@0: 2403 keys, 668606 bytes
+2025/11/30-03:15:48.212 2eadcf Compacted 4@0 + 1@1 files => 668606 bytes
+2025/11/30-03:15:48.213 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:15:48.213 2eadcf Delete type=2 #363
+2025/11/30-03:15:48.213 2eadcf Delete type=2 #361
+2025/11/30-03:15:48.213 2eadcf Delete type=2 #359
+2025/11/30-03:15:48.213 2eadcf Delete type=2 #357
+2025/11/30-03:15:48.213 2eadcf Delete type=2 #355
+2025/11/30-03:15:52.862 2eadcf Level-0 table #366: started
+2025/11/30-03:15:52.864 2eadcf Level-0 table #366: 15788 bytes OK
+2025/11/30-03:15:52.868 2eadcf Delete type=0 #362
+2025/11/30-03:16:00.436 2eadcf Level-0 table #368: started
+2025/11/30-03:16:00.440 2eadcf Level-0 table #368: 15976 bytes OK
+2025/11/30-03:16:00.446 2eadcf Delete type=0 #365
+2025/11/30-03:16:02.197 2eadcf Level-0 table #370: started
+2025/11/30-03:16:02.200 2eadcf Level-0 table #370: 8186 bytes OK
+2025/11/30-03:16:02.202 2eadcf Delete type=0 #367
+2025/11/30-03:16:04.433 2eadcf Level-0 table #372: started
+2025/11/30-03:16:04.436 2eadcf Level-0 table #372: 8221 bytes OK
+2025/11/30-03:16:04.438 2eadcf Delete type=0 #369
+2025/11/30-03:16:04.438 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:16:04.444 2eadcf Generated table #373@0: 2420 keys, 669283 bytes
+2025/11/30-03:16:04.444 2eadcf Compacted 4@0 + 1@1 files => 669283 bytes
+2025/11/30-03:16:04.445 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:16:04.445 2eadcf Delete type=2 #364
+2025/11/30-03:16:04.445 2eadcf Delete type=2 #370
+2025/11/30-03:16:04.445 2eadcf Delete type=2 #366
+2025/11/30-03:16:04.445 2eadcf Delete type=2 #372
+2025/11/30-03:16:04.445 2eadcf Delete type=2 #368
+2025/11/30-03:16:06.099 2eadcf Level-0 table #375: started
+2025/11/30-03:16:06.102 2eadcf Level-0 table #375: 8230 bytes OK
+2025/11/30-03:16:06.104 2eadcf Delete type=0 #371
+2025/11/30-03:16:08.281 2eadcf Level-0 table #377: started
+2025/11/30-03:16:08.284 2eadcf Level-0 table #377: 8256 bytes OK
+2025/11/30-03:16:08.286 2eadcf Delete type=0 #374
+2025/11/30-03:16:12.278 2eadcf Level-0 table #379: started
+2025/11/30-03:16:12.285 2eadcf Level-0 table #379: 10281 bytes OK
+2025/11/30-03:16:12.289 2eadcf Delete type=0 #376
+2025/11/30-03:16:14.179 2eadcf Level-0 table #381: started
+2025/11/30-03:16:14.182 2eadcf Level-0 table #381: 8362 bytes OK
+2025/11/30-03:16:14.184 2eadcf Delete type=0 #378
+2025/11/30-03:16:14.184 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:16:14.191 2eadcf Generated table #382@0: 2431 keys, 669622 bytes
+2025/11/30-03:16:14.192 2eadcf Compacted 4@0 + 1@1 files => 669622 bytes
+2025/11/30-03:16:14.193 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:16:14.193 2eadcf Delete type=2 #377
+2025/11/30-03:16:14.193 2eadcf Delete type=2 #375
+2025/11/30-03:16:14.193 2eadcf Delete type=2 #373
+2025/11/30-03:16:14.193 2eadcf Delete type=2 #381
+2025/11/30-03:16:14.193 2eadcf Delete type=2 #379
+2025/11/30-03:16:16.112 2eadcf Level-0 table #384: started
+2025/11/30-03:16:16.116 2eadcf Level-0 table #384: 8314 bytes OK
+2025/11/30-03:16:16.118 2eadcf Delete type=0 #380
+2025/11/30-03:16:18.018 2eadcf Level-0 table #386: started
+2025/11/30-03:16:18.021 2eadcf Level-0 table #386: 8242 bytes OK
+2025/11/30-03:16:18.023 2eadcf Delete type=0 #383
+2025/11/30-03:16:22.249 2eadcf Level-0 table #388: started
+2025/11/30-03:16:22.252 2eadcf Level-0 table #388: 8305 bytes OK
+2025/11/30-03:16:22.254 2eadcf Delete type=0 #385
+2025/11/30-03:16:29.994 2eadcf Level-0 table #390: started
+2025/11/30-03:16:30.000 2eadcf Level-0 table #390: 8461 bytes OK
+2025/11/30-03:16:30.001 2eadcf Delete type=0 #387
+2025/11/30-03:16:30.002 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:16:30.009 2eadcf Generated table #391@0: 2441 keys, 669897 bytes
+2025/11/30-03:16:30.009 2eadcf Compacted 4@0 + 1@1 files => 669897 bytes
+2025/11/30-03:16:30.010 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:16:30.011 2eadcf Delete type=2 #388
+2025/11/30-03:16:30.011 2eadcf Delete type=2 #382
+2025/11/30-03:16:30.011 2eadcf Delete type=2 #386
+2025/11/30-03:16:30.011 2eadcf Delete type=2 #384
+2025/11/30-03:16:30.011 2eadcf Delete type=2 #390
+2025/11/30-03:16:31.919 2eadcf Level-0 table #393: started
+2025/11/30-03:16:31.922 2eadcf Level-0 table #393: 8518 bytes OK
+2025/11/30-03:16:31.924 2eadcf Delete type=0 #389
+2025/11/30-03:16:35.669 2eadcf Level-0 table #395: started
+2025/11/30-03:16:35.672 2eadcf Level-0 table #395: 8473 bytes OK
+2025/11/30-03:16:35.674 2eadcf Delete type=0 #392
+2025/11/30-03:16:35.880 2eadcf Level-0 table #397: started
+2025/11/30-03:16:35.883 2eadcf Level-0 table #397: 8572 bytes OK
+2025/11/30-03:16:35.885 2eadcf Delete type=0 #394
+2025/11/30-03:16:41.954 2eadcf Level-0 table #399: started
+2025/11/30-03:16:41.958 2eadcf Level-0 table #399: 8765 bytes OK
+2025/11/30-03:16:41.962 2eadcf Delete type=0 #396
+2025/11/30-03:16:41.966 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:16:41.974 2eadcf Generated table #400@0: 2459 keys, 670828 bytes
+2025/11/30-03:16:41.974 2eadcf Compacted 4@0 + 1@1 files => 670828 bytes
+2025/11/30-03:16:41.976 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:16:41.976 2eadcf Delete type=2 #399
+2025/11/30-03:16:41.976 2eadcf Delete type=2 #395
+2025/11/30-03:16:41.976 2eadcf Delete type=2 #397
+2025/11/30-03:16:41.976 2eadcf Delete type=2 #393
+2025/11/30-03:16:41.976 2eadcf Delete type=2 #391
+2025/11/30-03:16:44.829 2eadcf Level-0 table #402: started
+2025/11/30-03:16:44.832 2eadcf Level-0 table #402: 8472 bytes OK
+2025/11/30-03:16:44.834 2eadcf Delete type=0 #398
+2025/11/30-03:16:46.602 2eadcf Level-0 table #404: started
+2025/11/30-03:16:46.605 2eadcf Level-0 table #404: 8513 bytes OK
+2025/11/30-03:16:46.606 2eadcf Delete type=0 #401
+2025/11/30-03:16:48.894 2eadcf Level-0 table #406: started
+2025/11/30-03:16:48.898 2eadcf Level-0 table #406: 8542 bytes OK
+2025/11/30-03:16:48.899 2eadcf Delete type=0 #403
+2025/11/30-03:16:51.257 2eadcf Level-0 table #408: started
+2025/11/30-03:16:51.259 2eadcf Level-0 table #408: 8532 bytes OK
+2025/11/30-03:16:51.260 2eadcf Delete type=0 #405
+2025/11/30-03:16:51.261 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:16:51.264 2eadcf Generated table #409@0: 2467 keys, 671017 bytes
+2025/11/30-03:16:51.264 2eadcf Compacted 4@0 + 1@1 files => 671017 bytes
+2025/11/30-03:16:51.267 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:16:51.267 2eadcf Delete type=2 #404
+2025/11/30-03:16:51.267 2eadcf Delete type=2 #406
+2025/11/30-03:16:51.267 2eadcf Delete type=2 #402
+2025/11/30-03:16:51.267 2eadcf Delete type=2 #400
+2025/11/30-03:16:51.267 2eadcf Delete type=2 #408
+2025/11/30-03:16:53.627 2eadcf Level-0 table #411: started
+2025/11/30-03:16:53.631 2eadcf Level-0 table #411: 8800 bytes OK
+2025/11/30-03:16:53.633 2eadcf Delete type=0 #407
+2025/11/30-03:16:58.348 2eadcf Level-0 table #413: started
+2025/11/30-03:16:58.352 2eadcf Level-0 table #413: 8811 bytes OK
+2025/11/30-03:16:58.354 2eadcf Delete type=0 #410
+2025/11/30-03:17:02.524 2eadcf Level-0 table #415: started
+2025/11/30-03:17:02.527 2eadcf Level-0 table #415: 9037 bytes OK
+2025/11/30-03:17:02.530 2eadcf Delete type=0 #412
+2025/11/30-03:17:06.282 2eadcf Level-0 table #417: started
+2025/11/30-03:17:06.288 2eadcf Level-0 table #417: 9076 bytes OK
+2025/11/30-03:17:06.290 2eadcf Delete type=0 #414
+2025/11/30-03:17:06.291 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:17:06.298 2eadcf Generated table #418@0: 2478 keys, 670663 bytes
+2025/11/30-03:17:06.298 2eadcf Compacted 4@0 + 1@1 files => 670663 bytes
+2025/11/30-03:17:06.299 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:17:06.300 2eadcf Delete type=2 #411
+2025/11/30-03:17:06.300 2eadcf Delete type=2 #413
+2025/11/30-03:17:06.300 2eadcf Delete type=2 #417
+2025/11/30-03:17:06.300 2eadcf Delete type=2 #415
+2025/11/30-03:17:06.300 2eadcf Delete type=2 #409
+2025/11/30-03:17:11.929 2eadcf Level-0 table #420: started
+2025/11/30-03:17:11.932 2eadcf Level-0 table #420: 9149 bytes OK
+2025/11/30-03:17:11.936 2eadcf Delete type=0 #416
+2025/11/30-03:17:14.171 2eadcf Level-0 table #422: started
+2025/11/30-03:17:14.175 2eadcf Level-0 table #422: 9236 bytes OK
+2025/11/30-03:17:14.176 2eadcf Delete type=0 #419
+2025/11/30-03:17:17.845 2eadcf Level-0 table #424: started
+2025/11/30-03:17:17.846 2eadcf Level-0 table #424: 9138 bytes OK
+2025/11/30-03:17:17.848 2eadcf Delete type=0 #421
+2025/11/30-03:17:21.336 2eadcf Level-0 table #426: started
+2025/11/30-03:17:21.347 2eadcf Level-0 table #426: 9251 bytes OK
+2025/11/30-03:17:21.350 2eadcf Delete type=0 #423
+2025/11/30-03:17:21.351 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:17:21.358 2eadcf Generated table #427@0: 2495 keys, 671124 bytes
+2025/11/30-03:17:21.358 2eadcf Compacted 4@0 + 1@1 files => 671124 bytes
+2025/11/30-03:17:21.359 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:17:21.359 2eadcf Delete type=2 #418
+2025/11/30-03:17:21.359 2eadcf Delete type=2 #424
+2025/11/30-03:17:21.359 2eadcf Delete type=2 #426
+2025/11/30-03:17:21.359 2eadcf Delete type=2 #422
+2025/11/30-03:17:21.359 2eadcf Delete type=2 #420
+2025/11/30-03:17:30.712 2eadcf Level-0 table #429: started
+2025/11/30-03:17:30.717 2eadcf Level-0 table #429: 9226 bytes OK
+2025/11/30-03:17:30.719 2eadcf Delete type=0 #425
+2025/11/30-03:17:35.883 2eadcf Level-0 table #431: started
+2025/11/30-03:17:35.890 2eadcf Level-0 table #431: 9481 bytes OK
+2025/11/30-03:17:35.892 2eadcf Delete type=0 #428
+2025/11/30-03:17:48.020 2eadcf Level-0 table #433: started
+2025/11/30-03:17:48.022 2eadcf Level-0 table #433: 9384 bytes OK
+2025/11/30-03:17:48.040 2eadcf Delete type=0 #430
+2025/11/30-03:17:50.512 2eadcf Level-0 table #435: started
+2025/11/30-03:17:50.520 2eadcf Level-0 table #435: 9724 bytes OK
+2025/11/30-03:17:50.525 2eadcf Delete type=0 #432
+2025/11/30-03:17:50.525 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:17:50.532 2eadcf Generated table #436@0: 2526 keys, 672136 bytes
+2025/11/30-03:17:50.532 2eadcf Compacted 4@0 + 1@1 files => 672136 bytes
+2025/11/30-03:17:50.534 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:17:50.534 2eadcf Delete type=2 #429
+2025/11/30-03:17:50.534 2eadcf Delete type=2 #431
+2025/11/30-03:17:50.534 2eadcf Delete type=2 #433
+2025/11/30-03:17:50.534 2eadcf Delete type=2 #427
+2025/11/30-03:17:50.534 2eadcf Delete type=2 #435
+2025/11/30-03:17:52.400 2eadcf Level-0 table #438: started
+2025/11/30-03:17:52.404 2eadcf Level-0 table #438: 9525 bytes OK
+2025/11/30-03:17:52.406 2eadcf Delete type=0 #434
+2025/11/30-03:17:57.905 2eadcf Level-0 table #440: started
+2025/11/30-03:17:57.907 2eadcf Level-0 table #440: 9527 bytes OK
+2025/11/30-03:17:57.909 2eadcf Delete type=0 #437
+2025/11/30-03:17:59.853 2eadcf Level-0 table #442: started
+2025/11/30-03:17:59.854 2eadcf Level-0 table #442: 9600 bytes OK
+2025/11/30-03:17:59.857 2eadcf Delete type=0 #439
+2025/11/30-03:18:08.829 2eadcf Level-0 table #444: started
+2025/11/30-03:18:08.832 2eadcf Level-0 table #444: 9602 bytes OK
+2025/11/30-03:18:08.836 2eadcf Delete type=0 #441
+2025/11/30-03:18:08.837 2eadcf Compacting 4@0 + 1@1 files
+2025/11/30-03:18:08.849 2eadcf Generated table #445@0: 2538 keys, 672533 bytes
+2025/11/30-03:18:08.849 2eadcf Compacted 4@0 + 1@1 files => 672533 bytes
+2025/11/30-03:18:08.851 2eadcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-03:18:08.851 2eadcf Delete type=2 #438
+2025/11/30-03:18:08.851 2eadcf Delete type=2 #436
+2025/11/30-03:18:08.851 2eadcf Delete type=2 #444
+2025/11/30-03:18:08.851 2eadcf Delete type=2 #440
+2025/11/30-03:18:08.851 2eadcf Delete type=2 #442

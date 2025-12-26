@@ -1,0 +1,14 @@
+2025/11/30-04:59:30.611 34869d Reusing MANIFEST /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/IndexedDB/https_hh.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/30-04:59:30.611 34869d Recovering log #2693
+2025/11/30-04:59:30.611 34869d Reusing old log /Users/richardgurtsiev/Desktop/projects/hr_matcher/hh-resumes-scraper/C:\\selenium_profile/Default/IndexedDB/https_hh.ru_0.indexeddb.leveldb/002693.log 
+2025/11/30-04:59:30.612 34869d Delete type=2 #2691
+2025/11/30-04:59:30.648 34869b Level-0 table #2698: started
+2025/11/30-04:59:30.649 34869b Level-0 table #2698: 1405 bytes OK
+2025/11/30-04:59:30.650 34869b Delete type=0 #2693
+2025/11/30-04:59:30.651 34869b Manual compaction at level-0 from ' \xef\x03\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xf0\x03\x00\x00\x00' @ 0 : 0; will stop at ' \xef\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 90555 : 1
+2025/11/30-04:59:30.651 34869b Compacting 1@0 + 1@1 files
+2025/11/30-04:59:30.654 34869b Generated table #2699@0: 1096 keys, 26519 bytes
+2025/11/30-04:59:30.654 34869b Compacted 1@0 + 1@1 files => 26519 bytes
+2025/11/30-04:59:30.655 34869b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/30-04:59:30.655 34869b Delete type=2 #2698
+2025/11/30-04:59:30.656 34869b Manual compaction at level-0 from ' \xef\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 90555 : 1 .. ' \xf0\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
